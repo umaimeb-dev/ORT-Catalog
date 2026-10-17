@@ -12,8 +12,8 @@
         "ky": "Орус жана кыргыз тилдеринде ЖРТга даярдануу үчүн негизги топтом: математика, окшоштуктар жана сүйлөмдөрдү толуктоо, грамматика, окуп түшүнүү, биология, химия, физика, тарых жана англис тили. Шарттар, жооптордун варианттары, түшүндүрмөлөр жана керектүү сүрөттөр камтылган."
       },
       "category": "sources",
-      "repository": "https://github.com/Umar151515/ORT-Questions-Standart",
-      "manifest_url": "https://raw.githubusercontent.com/Umar151515/ORT-Questions-Standart/main/manifest.json"
+      "repository": "https://github.com/umaimeb-dev/ORT-Questions-Standart",
+      "manifest_url": "https://raw.githubusercontent.com/umaimeb-dev/ORT-Questions-Standart/main/manifest.json"
     },
     {
       "id": "ai",
@@ -26,8 +26,8 @@
         "ky": "Орус жана кыргыз тилдеринде окуп түшүнүү боюнча кошумча машыгуу: бүтүн жана эки бөлүктөн турган тексттерге тапшырмалар. Суроолор менен түшүндүрмөлөр жасалма интеллекттин жардамы менен даярдалган. Бул негизги топтомду толуктайт, ЖРТнын бардык предметтерин камтыбайт."
       },
       "category": "ai",
-      "repository": "https://github.com/Umar151515/ORT-Questions-AI",
-      "manifest_url": "https://raw.githubusercontent.com/Umar151515/ORT-Questions-AI/main/manifest.json"
+      "repository": "https://github.com/umaimeb-dev/ORT-Questions-AI",
+      "manifest_url": "https://raw.githubusercontent.com/umaimeb-dev/ORT-Questions-AI/main/manifest.json"
     }
   ]
 }
